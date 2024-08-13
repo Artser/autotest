@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class MyHomeworkTests {
 
     /* В этом классе можете описать тесты для домашнего задания */
-
+//
     private WebDriver driver;
     private WebDriverWait wait;
 
